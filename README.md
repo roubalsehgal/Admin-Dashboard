@@ -1,1 +1,1 @@
-# Dashboard-Panel
+# Admin Dashboard
